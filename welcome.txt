@@ -25,3 +25,6 @@ git diff #branchNameToCompare
 if there are no Merge Conflicts, we can merge the code using following command
 
 git merge #branchNameToMerge
+
+Reset Commands:
+git reset Head~1 
