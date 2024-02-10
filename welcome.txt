@@ -28,3 +28,4 @@ git merge #branchNameToMerge
 
 Reset Commands:
 git reset Head~1 
+git reset #hashOfCommit
