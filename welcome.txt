@@ -9,3 +9,11 @@ git checkout -b featute/styles
 git add styles.css 
 git commit -m"Added styles.css file"
 git push origin feature/styles 
+
+
+Branch Commands:
+git branch 
+git checkout #branchName
+git checkout -b #newBranchNameToBeCraeted
+git branch -M styles
+git branch -d styles
