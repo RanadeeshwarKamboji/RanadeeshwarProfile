@@ -17,3 +17,11 @@ git checkout #branchName
 git checkout -b #newBranchNameToBeCraeted
 git branch -M styles
 git branch -d styles
+
+Merge Commands:
+
+git diff #branchNameToCompare
+
+if there are no Merge Conflicts, we can merge the code using following command
+
+git merge #branchNameToMerge
