@@ -1,3 +1,11 @@
 Hi, 
 welcome to Ranadeeshwar profile,
 Thanks For visiting our page.
+
+git clone https://github.com/RanadeeshwarKamboji/RanadeeshwarProfile.git
+git status 
+
+git checkout -b featute/styles
+git add styles.css 
+git commit -m"Added styles.css file"
+git push origin feature/styles 
